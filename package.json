@@ -1,0 +1,22 @@
+{
+  "name": "zimjs-akdev",
+  "version": "1.0.0",
+  "description": "![npm](https://img.shields.io/npm/v/zimjs.svg) ![GitHub](https://img.shields.io/github/license/danzen/zimjs.svg)",
+  "main": "zim.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milkeshaa/zimjs.git"
+  },
+  "keywords": [
+    "zim"
+  ],
+  "author": "Milkevich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milkeshaa/zimjs/issues"
+  },
+  "homepage": "https://github.com/milkeshaa/zimjs#readme"
+}
