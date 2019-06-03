@@ -489,7 +489,7 @@ item1, item2 (optional), etc. - Arrays or Objects to log to the console
 
 RETURNS items it is logging
 --*///+7.6
-var zta = console.table&&zon?console.table.bind(console):function(){};
+var zta = function(){};
 //-7.6
 
 // the above functions are global for quick usage
